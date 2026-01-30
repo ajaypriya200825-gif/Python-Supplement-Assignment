@@ -1,7 +1,7 @@
 # Problem 11: Count occurrences of each character
 # Find and fix the error
 
-text = "language"
+text = "country"
 char_count = {}
 for char in text:
     if char in char_count:
