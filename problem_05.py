@@ -2,7 +2,7 @@
 # Find and fix the error
 
 text = "Hello World"
-vowels = "AEIOU"
+vowels = "aeiou"
 count  = 0
 for char in text:
     if char in vowels:
