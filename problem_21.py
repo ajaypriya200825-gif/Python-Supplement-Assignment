@@ -7,5 +7,5 @@ def is_sorted(lst):
             return False
     return True
 
-numbers = [1, 2, 3, 4, 5]
+numbers = [2,4,6,8,10]
 print(f"Is sorted: {is_sorted(numbers)}")
