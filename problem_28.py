@@ -1,8 +1,8 @@
 # Problem 28: Swap two variables
 # Find and fix the error
 
-a = 10
-b = 20
+a = 5
+b = 10
 temp = a
 a = b
 b = a
