@@ -3,7 +3,7 @@
 
 text = "Hello World"
 vowels = "AEIOU"
-count = 0
+count  = 0
 for char in text:
     if char in vowels:
         count += 1
